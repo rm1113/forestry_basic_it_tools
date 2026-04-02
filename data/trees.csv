@@ -1,0 +1,13 @@
+plot_id,species,diameter_cm,height_m,age_years,status
+1,pine,30,20,45,healthy
+1,pine,28,19,43,healthy
+1,birch,18,15,20,healthy
+1,spruce,25,18,35,damaged
+2,pine,35,22,50,healthy
+2,birch,20,16,25,healthy
+2,spruce,27,21,40,healthy
+3,pine,32,21,47,damaged
+3,birch,22,17,27,healthy
+3,spruce,29,23,42,healthy
+4,pine,26,18,38,healthy
+4,spruce,31,24,44,healthy
