@@ -23,7 +23,7 @@
 
 ### 1. Установить Python
 
-Рекомендуемая версия: **Python 3.14**. Для установки можно использовать официальный сайт [python.org](https://www.python.org/downloads/) или Microsoft Store (для Windows).
+Рекомендуемая версия: **Python 3.13**. Для установки можно использовать официальный сайт [python.org](https://www.python.org/downloads/) или Microsoft Store (для Windows).
 
 Откройте терминал и проверьте, что вы находитесь в корне проекта (где лежит `README.md`):
 
@@ -61,7 +61,7 @@ pip install uv
 После этого можно создать виртуальное окружение:
 
 ```bash
-forestry_basic_it_tools> uv venv
+forestry_basic_it_tools> uv venv --python=3.13
 # Using CPython 3.13.1
 # Creating virtual environment at: .venv
 # Activate with: .venv\Scripts\activate

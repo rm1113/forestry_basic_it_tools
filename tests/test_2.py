@@ -1,9 +1,8 @@
 from pathlib import Path
 import subprocess
-import os
 
 ROOT = Path(__file__).resolve().parents[1]
-INITIAL_COMMIT_NUMBER = 3
+INITIAL_COMMIT_NUMBER = 4
 
 def _git(*args: str) -> str:
     completed = subprocess.run(
